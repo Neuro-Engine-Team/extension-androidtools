@@ -10,12 +10,10 @@ You can install it through `Haxelib`
 ```bash
 haxelib install extension-androidtools
 ```
-Or through `Git`, if you want the latest updates
+Do no use `Git`, for this type of occasion 
 ```bash
 haxelib git extension-androidtools https://github.com/Neuro-Engine-Team/extension-androidtools
 ```
-
-_Do not use .Git at the end of the link_
 
 ## Licensing
 
