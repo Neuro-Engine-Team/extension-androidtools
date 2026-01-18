@@ -1,4 +1,4 @@
-## extension-androidtools
+## Android Tools Extension
 
 ![](https://img.shields.io/github/repo-size/LimeExtensions/extension-androidtools) ![](https://badgen.net/github/open-issues/LimeExtensions/extension-androidtools) ![](https://badgen.net/badge/license/MIT/green)
 
@@ -12,7 +12,7 @@ haxelib install extension-androidtools
 ```
 Or through `Git`, if you want the latest updates
 ```bash
-haxelib git extension-androidtools https://github.com/LimeExtensions/extension-androidtools.git
+haxelib git extension-androidtools https://github.com//extension-androidtools.git
 ```
 
 ## Licensing
